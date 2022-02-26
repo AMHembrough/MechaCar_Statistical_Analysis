@@ -12,7 +12,7 @@ I was tasked with identifying metrics that predict mpg of MechaCar prototypes, i
 
 ## Summary Statistics on Suspension Coils
 
-The design specifications for MechCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.  If we consider all manufacturing lots collectively, the current manufacturing data do meet this specification as the variance is slightly above 76 pound per square inch.  
+The design specifications for MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.  If we consider all manufacturing lots collectively, the current manufacturing data do meet this specification as the variance is slightly above 62 pound per square inch.  
 
 ![Figure 2: Summary Stats of All Lots MPG]( https://github.com/AMHembrough/MechaCar_Statistical_Analysis/blob/main/Figure%202.PNG)
 
@@ -24,11 +24,11 @@ If we examine the lots individually, not all lots meet the design specifications
 
 The PSI across all manufacturing lots is not statistically different from the population mean of 1,500 pounds per square inch, as denoted by a p value of 0.06028.
 
-![Figure 4: T-Test Across All Manufacturing Lots]( https://github.com/AMHembrough/MechaCar_Statistical_Analysis/commit/a7a3745aec7f3867cef2b65f0e71bdacbdb494e0)
+![Figure 4: T-Test Across All Manufacturing Lots](https://github.com/AMHembrough/MechaCar_Statistical_Analysis/blob/main/Figure4.PNG)
 
 When we look at the manufacturing lots separately, we see that while lots 1 and 2 are not statistically different from the population mean of 1,500 pounds per square inch (p = 1 and p + 0.6072, respectively), lot 3 is based on a p value of 0.04168.
 
-![Figure 5: T-Test by Manufacturing Lot]( https://github.com/AMHembrough/MechaCar_Statistical_Analysis/commit/0eba987242189167b11b3852fbc957ebae29f1ef)
+![Figure 5: T-Test by Manufacturing Lot](https://github.com/AMHembrough/MechaCar_Statistical_Analysis/commit/0eba987242189167b11b3852fbc957ebae29f1ef)
 
 ## Study Design: MechaCar vs Competition
 
