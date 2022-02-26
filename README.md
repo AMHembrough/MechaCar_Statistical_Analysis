@@ -28,7 +28,7 @@ The PSI across all manufacturing lots is not statistically different from the po
 
 When we look at the manufacturing lots separately, we see that while lots 1 and 2 are not statistically different from the population mean of 1,500 pounds per square inch (p = 1 and p + 0.6072, respectively), lot 3 is based on a p value of 0.04168.
 
-![Figure 5: T-Test by Manufacturing Lot](https://github.com/AMHembrough/MechaCar_Statistical_Analysis/commit/0eba987242189167b11b3852fbc957ebae29f1ef)
+![Figure 5: T-Test by Manufacturing Lot](https://github.com/AMHembrough/MechaCar_Statistical_Analysis/blob/main/Figure5.PNG)
 
 ## Study Design: MechaCar vs Competition
 
