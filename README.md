@@ -34,7 +34,7 @@ When we look at the manufacturing lots separately, we see that while lots 1 and 
 
 To compare the performance of MechaCar vehicles against the performance of vehicles from other manufactures, I would conduct a t-test of to see if MechaCar prototypes differs from other manufacturer’ prototypes.  I would use this statistical test because it allows me to compare the mean of one dataset to another under a few assumptions.  
 
-I would examine metrics like cost, fuel efficiency, horse power, and safety. 
+I would examine metrics like cost, fuel efficiency, horse power, and safety.  
 
 The hypotheses are as follows :
 -	H0 : There is no statistical difference between the MechaCar prototype metric means and other manufacturers’.
